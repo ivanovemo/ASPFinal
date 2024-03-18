@@ -1,4 +1,4 @@
-﻿using GreatReads.Models;
+﻿using GreatReads.Core.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
