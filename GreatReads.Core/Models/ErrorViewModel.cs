@@ -1,4 +1,4 @@
-namespace GreatReads.Models
+namespace GreatReads.Core.Models
 {
     public class ErrorViewModel
     {
