@@ -5,6 +5,10 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatReads", "GreatReads\GreatReads.csproj", "{12E41949-0E43-4B8C-AEF2-DDDC6CE097A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatReads.Core", "GreatReads.Core\GreatReads.Core.csproj", "{4CBF3A3F-EFB6-43D2-A829-2EBC95348AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatReads.Infrastructure", "GreatReads.Infrastructure\GreatReads.Infrastructure.csproj", "{1732ED35-0FA5-43D8-84BF-3991E0824EDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{12E41949-0E43-4B8C-AEF2-DDDC6CE097A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12E41949-0E43-4B8C-AEF2-DDDC6CE097A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12E41949-0E43-4B8C-AEF2-DDDC6CE097A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CBF3A3F-EFB6-43D2-A829-2EBC95348AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBF3A3F-EFB6-43D2-A829-2EBC95348AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBF3A3F-EFB6-43D2-A829-2EBC95348AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBF3A3F-EFB6-43D2-A829-2EBC95348AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1732ED35-0FA5-43D8-84BF-3991E0824EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1732ED35-0FA5-43D8-84BF-3991E0824EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1732ED35-0FA5-43D8-84BF-3991E0824EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1732ED35-0FA5-43D8-84BF-3991E0824EDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
