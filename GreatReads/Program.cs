@@ -1,4 +1,4 @@
-using GreatReads.Data;
+using GreatReads.Infrastructure.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
